@@ -4,6 +4,7 @@ const xss = require('xss-clean');
 const helmet = require('helmet');
 const morgan = require('morgan');
 const express = require('express');
+const compression = require('compression');
 const cookieParser = require('cookie-parser');
 const rateLimit = require('express-rate-limit');
 const mongoSanitize = require('express-mongo-sanitize');
@@ -84,6 +85,8 @@ app.use(
     ],
   }),
 );
+
+app.use(compression());
 
 /**
  * Test middleware
