@@ -5,9 +5,11 @@ Welcome to the **Natours API**! 🚀 This API powers the Natours application, pr
 ## 📚 Table of Contents
 
 - [🔍 Overview](#overview)
+- [📸 Screenshots](#screenshots)
 - [🚀 Getting Started](#getting-started)
 - [🔧 API Endpoints](#api-endpoints)
 - [⚙️ Usage](#usage)
+- [📚 Course Credits](#screenshots)
 - [💬 Contact](#contact)
 
 ## 🔍 Overview
@@ -18,6 +20,19 @@ The Natours API allows you to:
 - Manage user profiles and authentication 🔑
 - Submit and view reviews ✍️
 - Handle bookings and more!
+
+## 📸 Screenshots
+
+Here are some screenshots of the Natours application:
+
+- **Overview Page**:
+  ![Overview](public/img/overview.png)
+
+- **Tour Page**:
+  ![Tour](public/img/tour.png)
+
+- **User Page**:
+  ![User](public/img/me.png)
 
 ## 🚀 Getting Started
 
@@ -87,11 +102,13 @@ For a detailed view of all available endpoints, check out our [Postman Documenta
 
 After running the server, you can interact with the API endpoints using tools like Postman or cURL. Ensure to include necessary headers and parameters for requests.
 
+## 📚 Course Credits
+
+This project was built with guidance from Jonas Schmedtmann's course on Udemy. You can check out the course [here](https://www.udemy.com/share/101Wv6/). 🌟
+
 ## 💬 Contact
 
 For any questions or suggestions, feel free to reach out:
 
 - **LinkedIn**: [Anas Hany](https://www.linkedin.com/in/anashany219/)
 - **GitHub**: [AnasHany2193](https://github.com/AnasHany2193)
-
----
